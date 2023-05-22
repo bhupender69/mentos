@@ -1,0 +1,43 @@
+Deleting a Git remote 
+--------------------------
+git remote rm <Remote name>
+
+=====================================
+Pushing into GItHUb
+----------------------
+git push -u origin master
+
+=====================================
+Changing a Git remote Reposatory 
+----------------------
+git remote set-url origin https://github.com/bhupender69/Assignment_System_PHP-
+
+
+
+======================================
+creating a Branch 
+---------------------
+git checkout -b Develop 
+
+====================================
+swtiching a Branch 
+---------------------
+git checkout Develop 
+
+=================================
+deleting a GIt 
+------------------
+rm -rf .git
+
+============================
+git branching Commands 
+
+git branch -v
+git branch --merged --> To know the which branch is merged 
+git branch --no-merged --> to unmerged the branch
+
+git branch -d trycleanup --> TO deleting  a branch  
+
+
+
+
